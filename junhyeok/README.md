@@ -2,10 +2,10 @@
 
 ## 주간 학습 계획 (5/5 ~ 6/16)
 
-Udemy 강의: [DevOps Beginners to Advanced with Projects](https://www.udemy.com/course/decodingdevops/?couponCode=KEEPLEARNING)
-총 강의 시간: **53시간 17분**
-주차: **총 7주**
-목표: **프로젝트를 통해 실력을 향상시키는 것 / 강의는 완강하되, 선택과 집중을 통해 부족한 부분 보완**
+- Udemy 강의: [DevOps Beginners to Advanced with Projects](https://www.udemy.com/course/decodingdevops/?couponCode=KEEPLEARNING)
+- 총 강의 시간: **53시간 17분**
+- 주차: **총 7주**
+- 목표: **프로젝트를 통해 실력을 향상시키는 것 / 강의는 완강하되, 선택과 집중을 통해 부족한 부분 보완**
 
 ---
 
