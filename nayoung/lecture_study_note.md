@@ -8,5 +8,5 @@
 | week 4 | [4주차 정리본](https://nayoungii.notion.site/Section-6-206a9dd98737808f98c7e2aa2feae1f5?source=copy_link) |
 | week 5 | [5주차 정리본](https://nayoungii.notion.site/Section-7-20ca9dd9873780fb8303d06c51a6129c?source=copy_link) |
 | week 6 | [6주차 정리본](https://nayoungii.notion.site/Section-8-20ca9dd987378010b027d50ddc14daf6?source=copy_link) |
-| week 7 |  |
+| week 7 | [7주차 정리본](https://nayoungii.notion.site/Section-9-218a9dd9873780c58239dbf6089b20b3?source=copy_link) |
 | week 8 |  |
